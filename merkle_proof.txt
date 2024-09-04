@@ -1,0 +1,13 @@
+leaf position: 747
+leaf value: "data item 747"
+Hash values in proof:
+  bVO6oJ5De9/0qbiQ0yS2d+rMfVhBAytZ6rQOhw4niVM=
+  s4uuOF1y3ODeei9AmDGk6hPR7a0rtOkGgI1d844anMg=
+  wCcgZ9MpEAPOPzLENe9ePBW02XxQ/6wTf3yu0JtgCME=
+  ky1dTEUXj9mxABbEw9qjot6z/hkD1XWv64tIvwe1mUo=
+  xZRRr3dgGStCLFvT86uFxU9GBUpJfiYqruJmgAKuRLA=
+  eSPos2WcT9g2+o5BKhywzRUn9gwEeqeMN3WtDFKBDEQ=
+  eMiymcq9RRZEj7niyVmvs3H3K8mTf0WkpQRD/Y4Wiss=
+  UywmG+lDotV4vQWdVWg7niAo0M+g+mARmS5DroiPN64=
+  ZeRQOymGQ+LM35f/bP24BpH9LVZE7ROwGHVxS95D/oQ=
+  twyFI3AqQo8V1ieqq8JEOHlihMEd4RDHelIGVlW2CTg=
